@@ -1,0 +1,14 @@
+Como enviar seus arquivos para o github:
+1. Abrir o Git Bash
+2. Clonar o repositório do git com
+	git clone (código do code do github)
+3. Adicionar os arquivos 
+4. Para verificar se tem arquivos para enviar:
+	 git status
+5. Para o git entender que queremos enviar os arquivos novos:
+	git add .
+6. Para commitar os arquivos:
+	git commit -m "Mensagem que deseja colocar"
+7. Para os arquivos aparecerem no github:
+	git push origin main
+ 
